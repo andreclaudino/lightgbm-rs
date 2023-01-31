@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "lightgbm2-sys",
+    "lightgbm2"
+]
